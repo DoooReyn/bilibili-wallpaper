@@ -1,0 +1,15 @@
+{
+  "name": "bilibili-wallpaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./",
+  "scripts": {
+    "main": "node crawler.js"
+  },
+  "author": "reyn",
+  "license": "ISC",
+  "dependencies": {
+    "await-stream-ready": "^1.0.1",
+    "superagent": "^5.2.2"
+  }
+}
